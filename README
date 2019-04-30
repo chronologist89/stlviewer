@@ -14,7 +14,7 @@ For UNIX / Linux, simply enter the following command that will install all neces
 
 Compile
 -------
-./compile.py
+make
 
 Viewer
 ------
@@ -26,5 +26,6 @@ Options
 z : Zoom in
 x : Zoom out
 w : wiremesh mode
-r : Reset the view 
+r : Reset the view
+u : Reload model file
 Use the mouse with the left button down to rotate the object
